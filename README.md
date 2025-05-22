@@ -38,16 +38,3 @@ This project represents a **modular proof of concept** aimed at countering digit
 | Streamlit          | Interactive web app               |
 | Matplotlib         | Word influence visualizations     |
 | Pandas, NumPy      | Data preprocessing                |
-
----
-
-## Project Structure
-
-InfoGuard-Lite/
-├── app.py # Streamlit application
-├── model.pkl # Trained Logistic Regression model
-├── requirements.txt # Python dependencies
-├── README.md # Project overview and documentation
-├── /data/ # Contains Fake.csv and True.csv datasets
-├── /notebooks/ # Jupyter notebooks for EDA and model development
-└── /utils/ # Helper scripts (e.g., preprocessing, visualization)
