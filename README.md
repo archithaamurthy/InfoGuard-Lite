@@ -1,9 +1,5 @@
-# InfoGuard-Lite
-A Streamlit-based prototype to detect fake news and recommend counter-narratives for the Ministry of External Affairs
-
-# InfoGuard Lite: Real-Time Fake News Detection Engine
-
-_A strategic prototype for intelligent misinformation detection, blending interpretability with real-time insights._
+# InfoGuard-Lite : Real-Time Fake News Detection Engine
+A strategic prototype for intelligent misinformation detection, blending interpretability with real-time insights.
 
 ---
 
